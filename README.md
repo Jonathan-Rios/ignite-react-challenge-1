@@ -45,9 +45,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Jonathan-Rios/ignite-react-challenge-one.git
+$ git clone https://github.com/Jonathan-Rios/ignite-react-challenge-1.git
 
-$ cd ignite-react-challenge-one
+$ cd ignite-react-challenge-1
 ```
 
 Para iniciá-lo, siga os passos abaixo:
